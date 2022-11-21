@@ -1,0 +1,40 @@
+.heading {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 40px;
+    height: 40px;  
+    margin-top: 2rem;
+    margin-bottom: 0;
+    padding: 0;
+}
+.para {
+    font-family: sans-serif;
+    font-size: 20px;
+    height: 20px;
+    padding: 0;
+    margin-top: 1rem;
+}
+.main {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap: 1rem;
+    width: 100%;
+    margin-top: 2rem;
+    /* height: 600px; */
+}
+/* .container1,.container2 {
+    width: 40%;
+    height: 600px;
+} */
+
+.img1 {
+    height: 350px;
+    width: 280px;
+}
+.img2 {
+    width: 280px;
+    height: 220px;
+}
+.img3 {
+    height: 585px;
+}
